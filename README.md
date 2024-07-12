@@ -41,4 +41,4 @@ Add the "Send to Windows" option to your iPhone share sheet. This feature allows
 -   There will be an option `Send To Windows`
 -   Click the button and the website will open on your PC
 
-<img src="images/sharesheet.jpg" width="500">
+<img src="images/sharesheet.jpg" width="400">
